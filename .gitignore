@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated maps and exports
+map_*.png
+map_*.json
+map_*.xml
+benchmark_results.csv
